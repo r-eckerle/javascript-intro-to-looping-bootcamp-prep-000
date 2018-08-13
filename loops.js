@@ -17,11 +17,11 @@ function whileLoop(num) {
 }
 
 function incrementVariable() {
+  var i = 0
   i = i + 1;
 }
 
 function doWhileLoop(array) {
-  var i = 0
   
   do {
     array.shift()
